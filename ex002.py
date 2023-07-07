@@ -1,0 +1,5 @@
+print('\033[1;97m===\033[1;32mDESAFIO \033[1;31m002\033[m\033[1;97m===')
+nome = input('Qual seu nome? ')
+print(f'\033[1;97mPrazer em te conhecer,\033[1;34m {nome}\033[m!')
+idade = input('\033[1;97mDigite a sua idade: ')
+print(f'Obrigado senhor(a) \033[1;34m{nome}\033[1;97m. Confirmamos que o senhor tem \033[1;32m{idade}\033[1;97m anos.')

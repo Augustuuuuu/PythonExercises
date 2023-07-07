@@ -1,0 +1,5 @@
+print('===DESAFIO 015===')
+k = float(input('Informe a quantidade de quilômetros rodados: '))
+d = int(input('Informe a quantidade de dias usados: '))
+total = (k * 0.15) + (d * 60)
+print(f'O valor total a pagar pelo aluguel do carro será: R${total:.2f}')
