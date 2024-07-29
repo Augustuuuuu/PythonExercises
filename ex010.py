@@ -1,5 +1,0 @@
-print('===DESAFIO 10===')
-print('Calculadora de reais em dolares.')
-n = float(input('Digite o valor que você tem em reais: '))
-print(f'Com R${n} você pode comprar EUR{(n/6.26):.2f}')
-print(f'Com R${n} você pode comprar US${(n/5.29):.2f}')
