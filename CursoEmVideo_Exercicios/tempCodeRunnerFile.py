@@ -1,1 +1,0 @@
-palavra = "Augusto Cezar"
